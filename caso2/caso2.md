@@ -24,3 +24,6 @@ WHERE
 ![Consulta completa](/caso1/img/)
 ![Consulta parcial](/caso1/img/)
 
+
+
+Oscar Mauricio Areiza Paramo

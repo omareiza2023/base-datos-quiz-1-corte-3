@@ -1,7 +1,7 @@
-#caso1
+## CASO 1##
 
 
---sql
+```sql
 SELECT 
     CONCAT(p.first_name, ' ', p.middle_name, ' ', p.last_name, ' ', p.second_last_name) AS nombreCompleto,
     u.username AS usuario,
@@ -19,4 +19,12 @@ INNER JOIN module_view mv ON m.id = mv.module_id
 INNER JOIN view v ON mv.view_id = v.id
 
 --
+ 
+ ## RESULTADOS ##
+
+
+![consulta completa](/caso1/img/completo.png)
+![consulta completa](/caso1/img/parcial.png)
+
+
 Oscar Mauricio Areiza Paramo

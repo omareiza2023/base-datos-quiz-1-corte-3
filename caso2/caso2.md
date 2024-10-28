@@ -1,4 +1,5 @@
-## Mostrar la lista de vistas a las que tiene acceso un rol, enviar como condicion el nombre del rol [role](name)##
+## CASO 2##
+Mostrar la lista de vistas a las que tiene acceso un rol, enviar como condicion el nombre del rol [role](name)
 
 -[role] rol (name)
 -[module]module (name)
@@ -21,8 +22,9 @@ WHERE
 
 ## Resultados##
 
-![Consulta completa](/caso1/img/)
-![Consulta parcial](/caso1/img/)
+
+![consulta completa](/caso1/img/completo.png)
+![consulta completa](/caso1/img/parcial.png)
 
 
 
